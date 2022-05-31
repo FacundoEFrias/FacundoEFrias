@@ -29,7 +29,7 @@
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/FacundoEFrias/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Facundo%20Emanuel%20Frias-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/facundoemanuelfrias/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Facundo%20Emanuel%20Frias-blue?style=flat-square&logo=linkedin"></a>
 
 <a href="mailto:facufrias@hotmail"><img alt="Email" src="https://img.shields.io/badge/Email-facufrias@hotmail.com-blue?style=flat-square&logo=gmail"></a>
 
