@@ -18,8 +18,9 @@
 
 <br />
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=FacundoEFrias&repo=Food&theme=radical "Food")](https://github.com/FacundoEFrias/food)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=FacundoEFrias&repo=Repaso-PI&theme=radical "Repaso-PI")](https://github.com/FacundoEFrias/Repaso-PI)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=FacundoEFrias&repo=API-Weather&theme=radical "API-Weather")](https://github.com/FacundoEFrias/API-Weather)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=FacundoEFrias&repo=Rick-Morty&theme=radical "Rick-Morty")](https://github.com/FacundoEFrias/Rick-Morty)
 
 <h3> 🤝🏻 Connect with Me </h3>
 
