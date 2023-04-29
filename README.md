@@ -42,7 +42,7 @@ Me encanta tener objetivos para poder ir cumpliendolos y asi poder desarrollarme
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SnowPandaCoPT10a&repo=PF10a&theme=radical "food")](https://github.com/SnowPandaCoPT10a/PF10a)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=FacundoEFrias&repo=PI--Videogame&theme=radical "food")](https://github.com/FacundoEFrias/PI--Videogame)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=FacundoEFrias&repo=PI--Videogame&theme=radical "Videogame")](https://github.com/FacundoEFrias/PI--Videogame)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=FacundoEFrias&repo=food&theme=radical "food")](https://github.com/FacundoEFrias/food)
 
