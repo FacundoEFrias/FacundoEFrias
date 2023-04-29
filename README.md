@@ -15,6 +15,7 @@ Me encanta tener objetivos para poder ir cumpliendolos y asi poder desarrollarme
 🌎Me gustaría trabajar en un ambiente donde se apueste por las personas, donde me pueda seguir desarrollando como developer y nos brinden las herramientas adecuadas para poder seguir haciéndolo tanto como profesional y como persona. Me encanta trabajar en equipo y ayudar a los demas.
 
 🚀El objetivo que tengo es poder seguir creciendo y aprendiendo, lo cual me permita poder seguir desarrolando mas aplicaciones y llegar a ser Developer Senior para poder enseñar a los demás ya que me encanta hacerlo.
+
 ### 🛠 Languages and Tools:
 
 <br />
