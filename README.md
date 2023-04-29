@@ -25,17 +25,6 @@ Me encanta tener objetivos para poder ir cumpliendolos y asi poder desarrollarme
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=FacundoEFrias&theme=blue-green)](https://github.com/FacundoEFrias/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FacundoEFrias&layout=compact&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 <br />
-
-### 👀 Active Repo
-
-<br />
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=FacundoEFrias&repo=food&theme=radical "food")](https://github.com/FacundoEFrias/food)
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=FacundoEFrias&repo=API-Weather&theme=radical "API-Weather")](https://github.com/FacundoEFrias/API-Weather)
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=FacundoEFrias&repo=Rick-Morty&theme=radical "Rick-Morty")](https://github.com/FacundoEFrias/Rick-Morty)
-
 <h3> 🤝🏻 Connect with Me </h3>
 
 <br>
@@ -49,6 +38,18 @@ Me encanta tener objetivos para poder ir cumpliendolos y asi poder desarrollarme
 <a href="mailto:facufrias@hotmail"><img alt="Email" src="https://img.shields.io/badge/Email-facufrias@hotmail.com-blue?style=flat-square&logo=gmail"></a>
 
 </p>
+
+### 👀 Active Repo
+
+<br />
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=FacundoEFrias&repo=food&theme=radical "food")](https://github.com/FacundoEFrias/food)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=FacundoEFrias&repo=API-Weather&theme=radical "API-Weather")](https://github.com/FacundoEFrias/API-Weather)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=FacundoEFrias&repo=Rick-Morty&theme=radical "Rick-Morty")](https://github.com/FacundoEFrias/Rick-Morty)
+
+
 
 <!--
 **FacundoEFrias/FacundoEFrias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
