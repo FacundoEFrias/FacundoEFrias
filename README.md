@@ -24,10 +24,6 @@ Me encanta tener objetivos para poder ir cumpliendolos y asi poder desarrollarme
 
 <h3> 🤝🏻 Connect with Me </h3>
 
-<br>
-
-
-
 <p align="center">
 
 <a href="https://www.linkedin.com/in/facundoemanuelfrias/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Facundo%20Emanuel%20Frias-blue?style=flat-square&logo=linkedin"></a>
