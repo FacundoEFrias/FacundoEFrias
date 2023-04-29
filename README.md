@@ -3,7 +3,18 @@
 ![github-header-image (2)](https://user-images.githubusercontent.com/97521604/171206193-7cfc7e0d-1d7e-4f09-b57a-4fc5056738f8.png)
 
 
+👋 Hola, mi nombre es Facundo
 
+🇦🇷-🇮🇹 Nací en Córdoba-Argentina y hoy me encuentro residiendo en Torino- Italia.
+
+👨‍🎓 Actualmente estoy realizando un bootcamp en "Soy Henry" y me encuentro en la etapa final trabajando en un proyecto individual de todo lo aprendido durante el bootcamp, diñenando un single page application SPA y posteriormente un e-commerce en grupo. 
+
+👨‍💻Me caracterizo por ser una persona organizada, autodidacta, responsable, estricta conmigo mismo y siempre tratando de aprender sobre nuevas tecnologias ya que me apasiona todo lo relacionado a desarrollo.
+Me encanta tener objetivos para poder ir cumpliendolos y asi poder desarrollarme como developer. Soy una persona que cuando hay algo que no se, trato de buscarlo o preguntar para poder entenderlo, soy bueno con mis compañeros y siempre trato de ayudarlos.
+
+🌎Me gustaría trabajar en un ambiente donde se apueste por las personas, donde me pueda seguir desarrollando como developer y nos brinden las herramientas adecuadas para poder seguir haciéndolo tanto como profesional y como persona. Me encanta trabajar en equipo y ayudar a los demas.
+
+🚀El objetivo que tengo es poder seguir creciendo y aprendiendo, lo cual me permita poder seguir desarrolando mas aplicaciones y llegar a ser Developer Senior para poder enseñar a los demás ya que me encanta hacerlo.
 ### 🛠 Languages and Tools:
 
 <br />
