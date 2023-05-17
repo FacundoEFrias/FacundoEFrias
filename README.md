@@ -3,18 +3,21 @@
 ![github-header-image (2)](https://user-images.githubusercontent.com/97521604/171206193-7cfc7e0d-1d7e-4f09-b57a-4fc5056738f8.png)
 
 
-👋 Hola, mi nombre es Facundo
+👋 Ciao, mi chiamo Facundo.
 
-🇦🇷-🇮🇹 Nací en Córdoba-Argentina y hoy me encuentro residiendo en Torino- Italia.
+🇦🇷-🇮🇹 Sono nato a Córdoba, in Argentina, e attualmente vivo a Torino, Italia.
 
-👨‍🎓 Acabo de finalizar un bootcamp en "Soy Henry" de 700 horas, en la cual hemos realizado una single page application SPA y posteriormente para finalizar el curso, hemos realizado un e-commerce, estos proyectos se pueden ver mas abajo
+👨‍🎓 Ho appena completato un bootcamp di 700 ore presso "Soy Henry", durante il quale abbiamo realizzato un'applicazione single page (SPA) e, alla fine del corso, abbiamo sviluppato un e-commerce. È possibile vedere questi progetti qui sotto.
 
-👨‍💻Me caracterizo por ser una persona organizada, autodidacta, responsable, estricta conmigo mismo y siempre tratando de aprender sobre nuevas tecnologias ya que me apasiona todo lo relacionado a desarrollo.
-Me encanta tener objetivos para poder ir cumpliendolos y asi poder desarrollarme como developer. Soy una persona que cuando hay algo que no se, trato de buscarlo o preguntar para poder entenderlo, soy bueno con mis compañeros y siempre trato de ayudarlos.
+👨‍💻 Mi caratterizzo per essere una persona organizzata, autodidatta, responsabile, rigorosa con me stesso e sempre alla ricerca di nuove tecnologie, poiché sono appassionato di sviluppo. Mi piace avere obiettivi da raggiungere per potermi sviluppare come sviluppatore. Quando ci sono argomenti che non conosco, faccio ricerche o chiedo per poterli comprendere. Sono bravo con i miei compagni e cerco sempre di aiutarli.
 
-🌎Me gustaría trabajar en un ambiente donde se apueste por las personas, donde me pueda seguir desarrollando como developer y nos brinden las herramientas adecuadas para poder seguir haciéndolo tanto como profesional y como persona. Me encanta trabajar en equipo y ayudar a los demas.
+🌎 Mi piacerebbe lavorare in un ambiente che valorizzi le persone, dove posso continuare a crescere come sviluppatore e ci fornisca gli strumenti adeguati per farlo, sia professionalmente che personalmente. Amo lavorare in squadra e aiutare gli altri.
 
-🚀El objetivo que tengo es poder seguir creciendo y aprendiendo, lo cual me permita poder seguir desarrolando mas aplicaciones y llegar a ser Developer Senior para poder enseñar a los demás ya que me encanta hacerlo.
+🚀 Il mio obiettivo è continuare a crescere e imparare, consentendomi di sviluppare altre applicazioni e diventare uno sviluppatore senior in modo da poter insegnare agli altri, cosa che mi appassiona.
+
+Potete contattarmi:
+📞 (+39) 3485152716
+📧 facufrias@hotmail.com
 
 ### 🛠 Languages and Tools:
 
